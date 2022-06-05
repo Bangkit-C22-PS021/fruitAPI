@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "name": "fruit-api",
+  "version": "1.0.0",
+  "description": "api buah",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "abdul fahmi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
