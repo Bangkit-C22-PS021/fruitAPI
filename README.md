@@ -1,5 +1,5 @@
 # fruitAPI 
-create a private API using basic auth to fulfill the capstone project Bangkit 2022
+create a private API using basic auth to fulfill the capstone project Bangkit 2022.
 we use cloud function in gcp, because use cloud function serverless, easy to use
 ## how to start :
 1. Open google cloud project account
@@ -12,7 +12,7 @@ we use cloud function in gcp, because use cloud function serverless, easy to use
 8. The console output will give you link to test you API. You can test it in postman (or in the browser) by navigating to
 https://your.console.outputuri/fruitAPI
 
-##Note
+## Note :
 after endpoint you must input api_key
 example https://your.console.outputuri/fruitAPI?api_key=abcd
 
